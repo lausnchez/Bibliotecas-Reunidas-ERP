@@ -5,7 +5,7 @@
 > Es importante importar la base de datos antes de poner el programa en funcionamiento.
 
 ## 💡 Requisitos
-- Un socio solo puede sacar libros de su propia provincia pero lo puede entregar en cualquier bilbioteca.
+- Un socio solo puede sacar libros de su propia provincia pero lo puede entregar en cualquier biblioteca.
 - Una sola biblioteca por provincia.
 - Roles de usuario: Trabajadores de la biblioteca y Administrador.
 - Los trabajadores lo único que no pueden hacer es dar de alta otros trabajadores.
